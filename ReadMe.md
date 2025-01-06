@@ -17,7 +17,7 @@ they came to a halt in the Entrance Hall, which seemed very cold
 and gloomy after the grounds? They are 3 persons!
 
 
-Question-2
+Q-2
 Page 200, the last paragraph
 
 What was the speaking tone of Harry 
@@ -35,8 +35,6 @@ References :
 
 [1] https://github.com/tryAGI/LangChain 
 
-[2] https://medium.com/@johnkane24/a-completely-local-rag-net-langchain-sqlite-and-ollama-with-no-api-keys-required-d36c53652f00
 
-
-# The video can be found here :
+## The video can be found here :
 https://vimeo.com/1044291689?share=copy
