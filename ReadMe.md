@@ -9,6 +9,10 @@
 - The answers to Q-1, Q-2 and Q3 are shown as "green" and the question part is shown as "yellow".  
 
 
+### The video can be found here :
+https://vimeo.com/1044291689?share=copy
+
+
 Q-1
 Page 198, paragraph 5
  
@@ -36,5 +40,4 @@ References :
 [1] https://github.com/tryAGI/LangChain 
 
 
-## The video can be found here :
-https://vimeo.com/1044291689?share=copy
+
