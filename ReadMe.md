@@ -9,8 +9,7 @@
 - The answers to Q-1, Q-2 and Q3 are shown as "green" and the question part is shown as "yellow".  
 
 
-### The video can be found here :
-https://vimeo.com/1044291689?share=copy
+
 
 
 Q-1
@@ -35,9 +34,8 @@ Was a hat singing? Tell me the four first line of the
 lyric. Write each line separately.
 
 
-References : 
-
-[1] https://github.com/tryAGI/LangChain 
+## The video can be found here :
+https://vimeo.com/1044291689?share=copy
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashkanmy&color=blue)
